@@ -1,0 +1,8 @@
+[
+  {"image": "assets/eval/tl_small_light.png",  "gt_box": [40,30,80,70],
+   "position": "top-left",     "size": "small",  "theme": "light"},
+  {"image": "assets/eval/center_med_dark.png", "gt_box": [940,520,986,566],
+   "position": "center",       "size": "medium", "theme": "dark"},
+  {"image": "assets/eval/br_large_light.png",  "gt_box": [1836,996,1892,1052],
+   "position": "bottom-right", "size": "large",  "theme": "light"}
+]
